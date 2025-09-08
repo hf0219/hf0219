@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hitoshi FUJIOKA
+
+PhD student (RIMS, Kyoto University). Complex geometry & Higgs bundles.  
+**Homepage:** https://hf0219.github.io/
 
 <!--
 **hf0219/hf0219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
